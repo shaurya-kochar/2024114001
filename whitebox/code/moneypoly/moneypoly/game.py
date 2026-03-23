@@ -507,3 +507,5 @@ class Game:
 # Error 7: Missing pre-turn bankruptcy check
 
 # Error 18: Auction implemented as single round
+
+# Error 19: Trade does not credit seller
