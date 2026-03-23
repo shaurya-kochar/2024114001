@@ -73,3 +73,5 @@ class CardDeck:
         if not self.cards:
             return "CardDeck(0 cards, next=0)"
         return f"CardDeck({len(self.cards)} cards, next={self.index % len(self.cards)})"
+
+# Error 21: CardDeck crashes on empty deck
