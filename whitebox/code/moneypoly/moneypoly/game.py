@@ -509,3 +509,5 @@ class Game:
 # Error 18: Auction implemented as single round
 
 # Error 19: Trade does not credit seller
+
+# Error 20: Player removal breaks turn index
