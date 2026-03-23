@@ -72,3 +72,5 @@ class Bank:
 # Error 1: Collection logic skips players with insufficient funds
 
 # Error 3: Bank crashes when funds are insufficient
+
+# Error 13: Bank.collect accepts negative values
