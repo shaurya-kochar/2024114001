@@ -68,3 +68,5 @@ class Bank:
         return f"Bank(funds={self._funds})"
 
 # Iteration 6 names
+
+# Error 1: Collection logic skips players with insufficient funds
