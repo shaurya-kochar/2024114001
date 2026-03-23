@@ -108,3 +108,5 @@ class PropertyGroup:
 # Error 2: Mortgage value printed as method instead of value
 
 # Error 9: Rent doubling uses any() instead of all()
+
+# Error 10: Rent doubled even when property mortgaged
