@@ -1,10 +1,4 @@
 import pytest
-from integration.code.game_manager import GameManager
-
-@pytest.fixture
-def gm():
-    game = GameManager()
-    return game
 
 def test_register_and_assign_role(gm):
     gm.handle_register_member("Alice", "driver")
