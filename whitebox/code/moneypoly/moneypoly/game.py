@@ -505,3 +505,5 @@ class Game:
 # Error 6: Recursive turn handling causing double moves
 
 # Error 7: Missing pre-turn bankruptcy check
+
+# Error 18: Auction implemented as single round
