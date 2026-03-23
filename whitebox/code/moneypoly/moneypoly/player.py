@@ -90,3 +90,5 @@ class Player:
         return f"Player({self.name!r}, balance={self.balance}, pos={self.position})"
 
 # Iteration 3 format
+
+# Error 8: GO salary only on landing, not passing
