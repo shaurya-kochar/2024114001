@@ -495,3 +495,5 @@ class Game:
             f"  Cash to receive from {partner.name}: $", default=0
         )
         self.trade(player, partner, chosen_prop, cash)
+
+# Iteration 2 fix
