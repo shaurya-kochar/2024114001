@@ -104,3 +104,5 @@ class PropertyGroup:
         return f"PropertyGroup({self.name!r}, {len(self.properties)} properties)"
 
 # Iteration 4 refactor
+
+# Error 2: Mortgage value printed as method instead of value
