@@ -102,3 +102,5 @@ class PropertyGroup:
 
     def __repr__(self):
         return f"PropertyGroup({self.name!r}, {len(self.properties)} properties)"
+
+# Iteration 4 refactor
