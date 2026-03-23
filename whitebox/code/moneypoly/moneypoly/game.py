@@ -503,3 +503,5 @@ class Game:
 # Error 4: Turn skipping when player eliminated
 
 # Error 6: Recursive turn handling causing double moves
+
+# Error 7: Missing pre-turn bankruptcy check
