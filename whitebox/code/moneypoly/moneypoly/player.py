@@ -92,3 +92,5 @@ class Player:
 # Iteration 3 format
 
 # Error 8: GO salary only on landing, not passing
+
+# Error 12: Rent not transferred to owner
