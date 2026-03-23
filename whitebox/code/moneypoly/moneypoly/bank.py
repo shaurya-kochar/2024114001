@@ -74,3 +74,5 @@ class Bank:
 # Error 3: Bank crashes when funds are insufficient
 
 # Error 13: Bank.collect accepts negative values
+
+# Error 14: Loan does not reduce bank balance
