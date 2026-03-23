@@ -1,3 +1,4 @@
+import os
 import pytest
 from unittest.mock import patch, MagicMock
 import subprocess
@@ -715,7 +716,7 @@ def test_main_cli():
         ["python", "moneypoly/main.py"], 
         input=b"A, B\nq\n", 
         capture_output=True,
-        cwd="/home/dev/Desktop/devdev/dass/Ass2/2024101104/whitebox/code"
+        cwd=os.path.dirname(os.path.abspath(__file__))
     )
 
 # ==== GAME.PY MEGA COVERAGE ====

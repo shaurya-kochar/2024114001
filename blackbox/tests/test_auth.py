@@ -28,7 +28,7 @@ def test_admin_missing_user_id(base_url, roll_number):
     assert response.status_code == 200
 
 
-@pytest.mark.parametrize("bad_roll", ["", "2024101104x", "abc"])
+@pytest.mark.parametrize("bad_roll", ["", "2024114001x", "abc"])
 def test_invalid_roll_number_variants(base_url, user_id, bad_roll):
     headers = {"X-Roll-Number": bad_roll, "X-User-ID": user_id}
     response = requests.get(f"{base_url}/profile", headers=headers)
