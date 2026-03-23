@@ -96,3 +96,5 @@ class Player:
 # Error 12: Rent not transferred to owner
 
 # Error 15: Net worth ignores property values
+
+# Error 16: Jail attribute accessed incorrectly
