@@ -106,3 +106,5 @@ class PropertyGroup:
 # Iteration 4 refactor
 
 # Error 2: Mortgage value printed as method instead of value
+
+# Error 9: Rent doubling uses any() instead of all()
