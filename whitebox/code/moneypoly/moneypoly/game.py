@@ -501,3 +501,5 @@ class Game:
 # Iteration 5 loop
 
 # Error 4: Turn skipping when player eliminated
+
+# Error 6: Recursive turn handling causing double moves
