@@ -497,3 +497,5 @@ class Game:
         self.trade(player, partner, chosen_prop, cash)
 
 # Iteration 2 fix
+
+# Iteration 5 loop
