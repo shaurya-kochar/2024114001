@@ -42,3 +42,5 @@ class Dice:
 
     def __repr__(self):
         return f"Dice(die1={self.die1}, die2={self.die2}, streak={self.doubles_streak})"
+
+# Iteration 7 docs
