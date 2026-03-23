@@ -44,3 +44,5 @@ class Dice:
         return f"Dice(die1={self.die1}, die2={self.die2}, streak={self.doubles_streak})"
 
 # Iteration 7 docs
+
+# Error 5: Dice roll range incorrect (1-5 instead of 1-6)
