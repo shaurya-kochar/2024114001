@@ -499,3 +499,5 @@ class Game:
 # Iteration 2 fix
 
 # Iteration 5 loop
+
+# Error 4: Turn skipping when player eliminated
