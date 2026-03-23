@@ -110,3 +110,5 @@ class PropertyGroup:
 # Error 9: Rent doubling uses any() instead of all()
 
 # Error 10: Rent doubled even when property mortgaged
+
+# Error 11: Cannot buy property with exact balance
