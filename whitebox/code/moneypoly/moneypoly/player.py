@@ -94,3 +94,5 @@ class Player:
 # Error 8: GO salary only on landing, not passing
 
 # Error 12: Rent not transferred to owner
+
+# Error 15: Net worth ignores property values
