@@ -98,3 +98,5 @@ class Player:
 # Error 15: Net worth ignores property values
 
 # Error 16: Jail attribute accessed incorrectly
+
+# Error 17: No jail escape via doubles
