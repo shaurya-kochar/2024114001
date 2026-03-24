@@ -4,7 +4,7 @@
 GitHub repo link: (https://github.com/shaurya-kochar/2024114001.git)
 
 ## OneDrive Submission
-OneDrive link: 
+OneDrive link: https://drive.google.com/file/d/10qxWZsbBYeOC9Ew_MsgO8VKxg9c3Uq9Z/view?usp=sharing
 
 ---
 
